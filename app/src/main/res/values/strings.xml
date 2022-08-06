@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Roleta</string>
+    <string name="rodar">Rodar</string>
+    <string name="nenhum_numero">Nenhum número selecionado</string>
+    <string name="escolha_um_numero_1_a_10">Escolha um número de 1 a 10</string>
+    <string name="numero_sorteado">O número sorteado é: </string>
+</resources>
