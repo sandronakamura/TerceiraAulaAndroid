@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
                 val numeroSorteado = Random().nextInt(11)
 
                 // Alterando o texto do textView do resultado com o valor sorteado
+
                 texto.setText(R.string.numero_sorteado)
                 resultado.text = numeroSorteado.toString()
 
